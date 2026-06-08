@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DuyVo080303/DuyVo080303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -82,4 +80,9 @@ Documented requirements, user stories, workflow logic, and process improvements 
 <img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
 <img src="https://img.shields.io/badge/Jira-blue?style=flat-square" />
 </p>
+
+---
+## 📫 Connect with Me
+- Linkedin: www.linkedin.com/in/dannyvo2003
+- Gmail: vothaiduy0803@gmail.com
 
