@@ -44,16 +44,6 @@ I am interested in Business Analysis, Data Analytics, Supply Planning, and using
 
 
 ---
-
-## 💻 Tech Stack 
-
-<p>
-<img src="https://img.shields.io/badge/SQL-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Power BI-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Jira-blue?style=flat-square" />
-</p>
 ## 💻 Tech Stack & Tools
 
 <details open>
