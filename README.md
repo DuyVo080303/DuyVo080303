@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1> 👋 Hi, I'm Danny Vo </h1>
 
----
 
 ## 🔍 About Me
 
