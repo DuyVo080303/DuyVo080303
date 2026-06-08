@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-<br/>
-
 <h1> 👋 Hi, I'm Danny Vo </h1>
 
 ---
