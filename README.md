@@ -15,63 +15,27 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-<!-- <img src="./assets/banner.png" width="100%" alt="Profile banner" /> -->
-
 <br/>
 
-<h1>Hi, I'm Danny Vo 👋</h1>
-
-<p>
-Business & Data Analyst Graduate | SQL | Python | Power BI | Excel
-</p>
-
-<p>
-Turning data into business insights and practical decisions.
-</p>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-
-</div>
+<h1> 👋 Hi, I'm Danny Vo </h1>
 
 ---
 
 ## About Me
 
-I am a Master of Data Science student at Deakin University, interested in Business Analysis, Data Analytics, and data-driven decision-making.
+Hi, I’m Danny Vo, a Bachelor of Commerce graduate from Macquarie University and a final-year Master of Data Science student at Deakin University, expected to complete in June 2026.
 
-- Skilled in SQL, Python, Excel, Power BI, and Tableau  
-- Experienced in requirements documentation, user stories, BPMN, and stakeholder communication  
-- Interested in Business Analyst, Data Analyst, and Supply Planning Analyst roles  
-- Based in Melbourne, Australia  
+I am interested in Business Analysis, Data Analytics, Supply Planning, and using data to support better business decisions. I have hands-on experience in data analysis, KPI reporting, demand analysis, forecasting support, data validation, and stakeholder support.
 
----
-
-## Featured Projects
-
-### EV Demand Forecasting & Infrastructure Planning  
-Forecasted EV charging demand using historical traffic, weather, weekend, and holiday factors.
-
-### Planting Optimisation Tool  
-Used SQL and Python to clean spatial data, match coordinates, and support planting decision logic.
-
-### Business Performance Management System  
-Documented requirements, user stories, workflow logic, and process improvements for a performance management module.
+- Skilled in Excel, SQL, Python, and Power BI
+- Experienced in requirements documentation, user stories, BPMN, workflow analysis, and stakeholder communication
+- Project experience in cleaning and analysing large datasets, identifying patterns, and preparing actionable insights
+- Internship experience supporting reporting requirements, workflow documentation, data field clarification, and system logic for an internal performance tracking module
+- Based in Melbourne, Australia
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/SQL-blue?style=flat-square" />
